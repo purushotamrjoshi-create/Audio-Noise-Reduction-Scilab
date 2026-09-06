@@ -238,19 +238,15 @@ The main goal of this project was to gain practical experience in Digital Signal
 
 This project provides a foundation for exploring more advanced audio processing and DSP techniques.
 
-👨‍💻 Author
-<div align="center">
-Purushotam Joshi
+---
 
-Electronics & Communication Engineering
+## 👨‍💻 Author
 
-SUIET
+### **Purushotam Joshi**
 
-</div>
+**Electronics & Communication Engineering**  
+**SUIET**
 
-<div align="center">
+---
 
-⭐ If you found this project useful, consider giving the repository a star!
-
-</div> ```
-Add professional project README
+⭐ **If you found this project useful, consider giving the repository a star!**
